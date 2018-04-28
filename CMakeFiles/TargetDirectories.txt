@@ -1,3 +1,0 @@
-C:/Users/ticki/Documents/GitHub/Project_Hello_World/CMakeFiles/Project_Hello_World.dir
-C:/Users/ticki/Documents/GitHub/Project_Hello_World/CMakeFiles/ALL_BUILD.dir
-C:/Users/ticki/Documents/GitHub/Project_Hello_World/CMakeFiles/ZERO_CHECK.dir
