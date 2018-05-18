@@ -17,5 +17,5 @@ void getSum(int num1, int num2)
 {
     int sum;
     sum = num1+num2;
-    printf("the sum is %d",sum);
+    printf("the sum of %d and %d is %d",num1, num2, sum);
 }
